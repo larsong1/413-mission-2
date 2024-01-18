@@ -4,8 +4,6 @@
     {
         static void Main()
         {
-            Console.WriteLine("Welcome to the dice throwing simulator!");
-
             Console.Write("How many dice rolls would you like to simulate? ");
             int numberOfRolls = int.Parse(Console.ReadLine());
 
@@ -25,7 +23,6 @@
             }
 
             Console.WriteLine($"\nTotal number of rolls = {numberOfRolls}.");
-            Console.WriteLine("Thank you for using the dice throwing simulator. Goodbye!");
         }
     }
 

@@ -1,0 +1,15 @@
+C:\Users\gabri\Source\Repos\413-mission-2\bin\Debug\net8.0\413-mission-2.exe
+C:\Users\gabri\Source\Repos\413-mission-2\bin\Debug\net8.0\413-mission-2.deps.json
+C:\Users\gabri\Source\Repos\413-mission-2\bin\Debug\net8.0\413-mission-2.runtimeconfig.json
+C:\Users\gabri\Source\Repos\413-mission-2\bin\Debug\net8.0\413-mission-2.dll
+C:\Users\gabri\Source\Repos\413-mission-2\bin\Debug\net8.0\413-mission-2.pdb
+C:\Users\gabri\Source\Repos\413-mission-2\obj\Debug\net8.0\413-mission-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Source\Repos\413-mission-2\obj\Debug\net8.0\413-mission-2.AssemblyInfoInputs.cache
+C:\Users\gabri\Source\Repos\413-mission-2\obj\Debug\net8.0\413-mission-2.AssemblyInfo.cs
+C:\Users\gabri\Source\Repos\413-mission-2\obj\Debug\net8.0\413-mission-2.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Source\Repos\413-mission-2\obj\Debug\net8.0\413-mission-2.sourcelink.json
+C:\Users\gabri\Source\Repos\413-mission-2\obj\Debug\net8.0\413-mission-2.dll
+C:\Users\gabri\Source\Repos\413-mission-2\obj\Debug\net8.0\refint\413-mission-2.dll
+C:\Users\gabri\Source\Repos\413-mission-2\obj\Debug\net8.0\413-mission-2.pdb
+C:\Users\gabri\Source\Repos\413-mission-2\obj\Debug\net8.0\413-mission-2.genruntimeconfig.cache
+C:\Users\gabri\Source\Repos\413-mission-2\obj\Debug\net8.0\ref\413-mission-2.dll
